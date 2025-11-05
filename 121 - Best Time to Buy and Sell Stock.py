@@ -13,4 +13,4 @@ prices = [7, 1, 5, 3, 6, 4]
 prices2 = [7, 6, 4, 3, 1]
 prices3 = [1, 2, 4, 2, 5, 7, 2, 4, 9, 0, 9]
 obj = Solution()
-print(obj.maxProfit(prices3))
+print(obj.maxProfit(prices))
